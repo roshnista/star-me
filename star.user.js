@@ -14,6 +14,7 @@ You can modify RainbNode attributes and children and it will not affect DOM unti
 Parameter is boolean, true for rendering children, false for not rendering children
 $Rainb.node.render(boolean);
 */
+//commented
 //This probably proves I've gotten better at programming.
 //DOM helper functions.
 var genParser = (function(tys, tree, start) {
